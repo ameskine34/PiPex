@@ -8,8 +8,8 @@ Features:
 
 -Supports input (<) and output (>) redirection.
 
-Manages multiple processes through fork.
+-Manages multiple processes through fork.
 
-Utilizes low-level system calls for process control and communication.
+-Utilizes low-level system calls for process control and communication.
 
-Demonstrates core UNIX programming concepts including IPC and file descriptor manipulation.
+-Demonstrates core UNIX programming concepts including IPC and file descriptor manipulation.
