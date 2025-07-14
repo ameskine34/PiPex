@@ -2,10 +2,11 @@ PIPEX is a program designed to replicate the behavior of shell pipelines (|) and
 
 The project focuses on inter-process communication using UNIX pipes, managing file descriptors, and system calls such as fork, execve, pipe, and dup2.
 
-Features
-Simulates shell pipeline functionality by connecting commands with pipes.
+Features:
 
-Supports input (<) and output (>) redirection.
+-Simulates shell pipeline functionality by connecting commands with pipes.
+
+-Supports input (<) and output (>) redirection.
 
 Manages multiple processes through fork.
 
